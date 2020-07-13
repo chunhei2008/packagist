@@ -7,7 +7,7 @@
     "cz-conventional-changelog": "^3.0.2",
     "cz-customizable": "^6.2.0",
     "husky": "^3.0.2",
-    "standard-version": "^7.0.0",
+    "standard-version": "^8.0.1",
     "yapi-cli": "^1.4.0"
   },
   "scripts": {
